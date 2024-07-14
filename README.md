@@ -100,7 +100,7 @@ Método: PUT
 
 Corpo da Requisição:
 
-```json
+
 {
   "name": "string",
   "email": "string",
